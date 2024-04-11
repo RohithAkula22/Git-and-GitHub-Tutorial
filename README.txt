@@ -20,3 +20,5 @@ And the files in this area, git already manages them and knows their version his
 9. `git log` --> lists down all the commits of the repository. If you want to wxit out of the git log prompt press 'q'.
 
 10. `git restore <file>` --> it removes all the file changes from the stagging area to be committed. This can be useful, if we did some dirty piece of code and now no more want it. Instead of deleting every change line by line, we can restore it or you can say restore last clean version of the file.
+
+11.Playing with staging and working area of a committed repository.
