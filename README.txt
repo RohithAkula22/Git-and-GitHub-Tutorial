@@ -22,3 +22,6 @@ And the files in this area, git already manages them and knows their version his
 10. `git restore <file>` --> it removes all the file changes from the stagging area to be committed. This can be useful, if we did some dirty piece of code and now no more want it. Instead of deleting every change line by line, we can restore it or you can say restore last clean version of the file.
 
 11.Playing with staging and working area of a committed repository.
+
+12. `git restore --stages <file>` --> It removes file changes from staging area to working area.
+This only works if changes are in your staging area.
