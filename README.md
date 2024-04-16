@@ -42,4 +42,6 @@
 
 19. `git remote rm <name of the remote>` --> this command deletes a remote connection.
 
+20. `git remote rename <olname> <newname>` : this command renames the remote connection.
+
 Note : The name of the remote connection is always used to establish communication between the repos.
