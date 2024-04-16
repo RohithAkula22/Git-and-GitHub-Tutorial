@@ -59,3 +59,5 @@ Note : The name of the remote connection is always used to establish communicati
 - git commit -m "Commit"
 - git pull
 - git push
+
+24. Megre conflicts are a very common scenario.
