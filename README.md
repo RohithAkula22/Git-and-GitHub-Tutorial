@@ -45,3 +45,9 @@
 20. `git remote rename <olname> <newname>` : this command renames the remote connection.
 
 Note : The name of the remote connection is always used to establish communication between the repos.
+
+21. `git add <file1> <file2> <file3>` : this command will add multiple file changes together in the staging area.
+
+22. `git add .` --> this command will add all files from working repo to staging area.
+
+23. `git pull <remote name> <branch name>` : downloads latest changes from the branch of the mentioned remote in your local repo.
